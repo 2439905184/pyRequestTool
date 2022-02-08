@@ -1,0 +1,5 @@
+{
+    "port"   : 1234,
+    "domain" : "http://student:1234/api/del_collect.php",
+    "url"    : "api/del_collect.php"
+}
